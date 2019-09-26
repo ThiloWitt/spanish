@@ -5,13 +5,13 @@ msgstr ""
 "Language: template\n"
 
 msgid " (mandatory) - The user email. If the validation method is based on the user email this value must be unique."
-msgstr " (obligatorio): el correo electrónico del usuario. Si el método de validación se basa en el correo electrónico del usuario, este valor debe ser único."
+msgstr " (obligatorio): El correo electrónico del usuario. Si el método de validación se basa en el correo electrónico del usuario, este valor debe ser único."
 
 msgid " (mandatory) - The user name. This value must be unique."
-msgstr " (obligatorio): el nombre de usuario. Este valor debe ser único."
+msgstr " (obligatorio): El nombre de usuario. Este valor debe ser único."
 
 msgid " (mandatory) - The user password. It must have %sub% characters or more. Preferentially containing letters and numbers."
-msgstr " (obligatorio): la contraseña de usuario. Debe tener %sub% caracteres o más. Preferentemente conteniendo letras y números."
+msgstr " (obligatorio): La contraseña de usuario. Debe tener %sub% caracteres o más. Preferentemente conteniendo letras y números."
 
 msgid " - The identities of the groups where the user must belong separated by the character |. If you do not specify any group, the default group is %sub%."
 msgstr " - Las identidades de los grupos en los que el usuario debe pertenecer separados por el carácter |. Si no especifica ningún grupo, el grupo predeterminado es %sub%."
@@ -5147,7 +5147,7 @@ msgid "You are already a member of this group."
 msgstr "Ya eres miembro de este grupo."
 
 msgid "You are an anonymous guest."
-msgstr "Eres un invitado anónimo."
+msgstr "Es un invitado anónimo."
 
 msgid "You are currently using an unreleased version of the Zikula Core."
 msgstr "Actualmente está utilizando una versión inédita del núcleo de Zikula.  "
@@ -5183,7 +5183,7 @@ msgid "You are using the latest stable version of the Zikula core."
 msgstr "Está utilizando la última versión estable del núcleo Zikula."
 
 msgid "You can <a href=%sub%>register here</a>."
-msgstr "Puede <a href?%sub%>registrarse aquí</a>."
+msgstr "Puede <a href=%sub%>registrarse aquí</a>."
 
 msgid "You can arrange categories list using drag and drop. New order will be saved automatically."
 msgstr "Puede organizar la lista de categorías mediante arrastrar y soltar. El nuevo pedido se guardará automáticamente."
@@ -5579,7 +5579,7 @@ msgid "username"
 msgstr "nombre de usuario"
 
 msgid "usr"
-msgstr "usr"
+msgstr "Usr"
 
 msgid "when upgrading an existing workflow consider that objects could be in a state which does not exist anymore. You need to update your database to update these objects in order to avoid problems."
 msgstr "al actualizar un flujo de trabajo existente, tenga en cuenta que los objetos podrían estar en un estado que ya no existe. Debe actualizar la base de datos para actualizar estos objetos con el fin de evitar problemas."
